@@ -1,4 +1,4 @@
-# TPBackend - Frontend de lista de tareas
+# TPBackend - Backend de paleta de colores
 
 ![Backend](https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg)
 
